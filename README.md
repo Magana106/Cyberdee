@@ -46,8 +46,6 @@ Cortex
 📜 Certifications
 Google Cybersecurity Professional Certificate (Coursera)
 
-IBM Cybersecurity Analyst Certificate (Optional Add-on) (if completed)
-
 TryHackMe – Complete Beginner & SOC Level Rooms (Optional)
 
 💡 Projects
@@ -87,5 +85,5 @@ Realistic incident response scenarios
 
 📫 Contact
 📧 Email: [dianamagana121@gmail.com]
-💼 LinkedIn: [linkedin.com/in/yourprofile]
+💼 LinkedIn: [www.linkedin.com/in/diana-magana-0a58b4374]
 🌐 GitHub: [github.com/yourusername]
